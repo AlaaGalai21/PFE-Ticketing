@@ -14,7 +14,7 @@
 		"cookie-parser": "^1.4.3",
 		"express": "^4.16.4",
 		"express-jwt": "^5.3.1",
-		"jsonwebtoken": "^8.3.0",
+		"jsonwebtoken": "^9.0.0",
 		"mongoose": "^5.3.8",
 		"web3": "^1.2.8"
 	},
